@@ -1,4 +1,4 @@
-# Python TCP Chat Application
+# Python TCP Terminal Communication
 
 This is a simple client-server chat application in Python. Different devices can communicate over a network using TCP sockets, allowing multiple clients to send messages and files to each other through a central server.
 
